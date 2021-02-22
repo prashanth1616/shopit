@@ -1,0 +1,49 @@
+[{
+  "product_id": 1014974,
+  "name": "Elite Screens - Spectrum Electric Projection Screen - White",
+  "price": 269.99,
+  "description": "65\" x 90\" - Matte White - 100\" Diagonal",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "1014974",
+      "url": "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014974_sa.jpg"
+    }
+  ],
+  "category": "Electronics",
+  "seller": "Elite Screens",
+  "stock": 100,
+  "noOfReviews": 10,
+  "reviews": [
+    {
+      "name": "Elite Screens",
+      "ratings": 3.0,
+      "comment": "Good Product"
+    }
+  ]
+},
+
+{
+    "product_id": 1014975,
+    "name": "White",
+    "price": 280.99,
+    "description": "Diagonal",
+    "ratings": 0,
+    "images": [
+      {
+        "public_id": "1014974",
+        "url": "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014974_sa.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Elite Screens",
+    "stock": 10,
+    "noOfReviews": 3.0,
+    "reviews": [
+      {
+        "name": "Elite Screens",
+        "ratings": 3.0,
+        "comment": "Good Product"
+      }
+    ]
+  }]
